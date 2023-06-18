@@ -2,6 +2,8 @@
 
 Hello, ini Subdit Penertiban Wilayah 1
 
+![rombongan lenong](image/Rombongan_lenong.jpeg)
+
 ## Anggota
 
 Beranggotakan
